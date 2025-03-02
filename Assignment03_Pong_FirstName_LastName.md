@@ -44,4 +44,4 @@ I completed the following specifications in this assignment:
 
 [COMPLETE/INCOMPLETE] 
 
-6.  **(1 mark -- challenge!) Make the paddle turn a different colour for 500 milliseconds when they are touched by the ball.**
+6.  **(2 marks -- challenge!) Make the paddle turn a different colour for 500 milliseconds when they are touched by the ball.**

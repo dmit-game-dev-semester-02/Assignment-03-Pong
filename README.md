@@ -34,4 +34,4 @@ Finish Pong.
 
 5.  **(1 mark -- challenge!) Make the blocker object move up and down, changing direction when it hits the top or the bottom of the game play area.** 
 
-6.  **(1 mark -- challenge!) Make the paddles turn a different colour for 500 milliseconds when they are touched by the ball.**
+6.  **(2 marks -- challenge!) Make the paddles turn a different colour for 500 milliseconds when they are touched by the ball.**
